@@ -5,7 +5,11 @@ Makes a sandwich, provided you speak with AUTHORITY
 
 Installation
 ============
-Place in your /usr/local/bin and enjoy!
+Place make-me-a-sandwich in your /usr/local/bin and enjoy!
+
+Usage
+=====
+You should know this...
 
 Compatibility
 =============
