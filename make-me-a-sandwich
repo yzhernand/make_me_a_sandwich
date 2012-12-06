@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# Makes you a sandwich, but ONLY if you speak with AUTHORITY
+
+if [ $UID -ne 0 ]
+then
+    echo "What? Make it yourself!"
+else
+    echo "Okay."
+fi
+
